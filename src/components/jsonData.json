@@ -1,0 +1,27 @@
+ [
+    {
+      "title": "Card 1",
+      "body": "This is the body of card 1.",
+      "image": "https://www.liberty.co.za/PublishingImages/Product_Tiles/Home-Page-Product%20Tiles-Needed%20for%20Buy%20Now-386x123-1.jpg",
+      "link": "read more"
+    },
+    {   
+        "title": "Card 2",
+        "body": "This is the body of card 2.",
+        "image": "https://www.liberty.co.za/PublishingImages/Product_Tiles/Home-Page-Product%20Tiles-Needed%20for%20Life%20Protection-386x123-2.jpg",
+        "link": "read more"
+      },
+      {
+        "title": "Card 3",
+        "body": "This is the body of card 3.",
+        "image": "https://www.liberty.co.za/PublishingImages/Product_Tiles/Disability%20Cover_Product-tiles-386x123px-2.jpg",
+        "link": "read more"
+      },
+      {
+        "title": "Card 4",
+        "body": "This is the body of card 4",
+        "image": "https://www.liberty.co.za/PublishingImages/Product_Tiles/Disability%20Cover_Product-tiles-386x123px-2.jpg",
+        "link": "read more"
+      }
+    
+  ]
